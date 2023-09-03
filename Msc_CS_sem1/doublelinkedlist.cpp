@@ -24,7 +24,7 @@ second->prev=NULL;
 first->prev=second;
 //cout<<second->val<<endl;
 
-Node *temp = second;
+Node *temp = first;
 while(temp!=NULL){
     cout<<" "<< temp ->val << endl;
     temp = temp->next;
