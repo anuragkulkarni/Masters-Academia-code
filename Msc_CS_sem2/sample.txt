@@ -1,0 +1,8 @@
+1. employee.java(inheritance)
+    to run it
+    javac employee.java
+    java Programmer
+2. Find area and volume (abstract user)
+    to run it
+    javac Shape.java Sphere.java Cone.java Cylinder.java Calculate_Area_Volume.java
+    java Calculate_Area_Volume
